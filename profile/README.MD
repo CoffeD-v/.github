@@ -1,4 +1,4 @@
-![CoffeDev - A organization from education position]()
+![CoffeDev - A organization from education position](/img/Design%20sem%20nome.png)
 
 <div align="center">
   <h1>CoffeDev Org</h1>
@@ -35,9 +35,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/">🌐 Core</a>
+  <a href="https://github.com/">🌐 Tauri Template</a>
   <span>  |  </span>
-  <a href="https://github.com/">🛠️ Dashboard</a>
+  <a href="https://github.com/">🛠️ JsLesson</a>
   <span> | </span>
-  <a href="https://github.com/">🛍️ Storefront</a>
+  <a href="https://github.com/">🏛 Clean Arch</a>
 </div>
