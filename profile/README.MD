@@ -1,4 +1,4 @@
-![CoffeDev - A organization from education position](/img/Design%20sem%20nome.png)
+![CoffeDev - A organization from education position](/profile/img/Header.png)
 
 <div align="center">
   <h1>CoffeDev Org</h1>
