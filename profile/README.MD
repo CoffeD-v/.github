@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <strong></strong>
+  <strong>A place to gather energy with code so it can be productive and fun</strong>
 </div>
 
 <div align="center">
